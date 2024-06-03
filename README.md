@@ -5,7 +5,7 @@ Another rendition of my portfolio website, but in Ocaml.
 You can copy the following snippet to get this project up and running:
 
 ``` bash
-git clone https://www.github.com/joshua-mo-143/ocaml-portfolio
+git clone https://www.github.com/joshua-mo-143/ocaml-portfolio.git
 cd ocaml-portfolio
 export PORT=8000
 make up
